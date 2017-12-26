@@ -1,4 +1,4 @@
-Zenva - Codemurai app - html
+Zenva - Codemurai app - html - 7 lessons
 
 tags 	- <>open & closed statement tags</>
 		- <h1> heading tag - main heading </h1>
