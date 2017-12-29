@@ -5,3 +5,4 @@ Zenva - Codemurai app - html - 7 lessons
 				-  6 types (h1 - h6)<br>
 			- paragraph tag - p<br>
 2 - links	- 	<br>
+			- request vs response
