@@ -15,3 +15,6 @@ npm
 			- install javaScript libraries into an app
 
 			- 1-app npm init - initialize app to run
+
+			- libraries = packages or modules
+				- syntax = npm install [PACKAGE_NAME] --save

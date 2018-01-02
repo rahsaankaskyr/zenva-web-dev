@@ -15,5 +15,8 @@
     "app"
   ],
   "author": "Tako NYC",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
