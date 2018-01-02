@@ -1,3 +1,7 @@
 node.js - write server-side applications
 
 run node.js - terminal window - type node
+
+			- runs on server
+			- does not have access to browser-specific objects
+			- process.exit() method
