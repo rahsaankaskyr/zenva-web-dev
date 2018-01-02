@@ -1,0 +1,3 @@
+node.js - write server-side applications
+
+run node.js - terminal window - type node
