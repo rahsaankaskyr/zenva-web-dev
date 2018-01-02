@@ -5,3 +5,8 @@ run node.js - terminal window - type node
 			- runs on server
 			- does not have access to browser-specific objects
 			- process.exit() method
+
+test run index.js file
+
+			- console.log("hi there");
+			- terminal - node index.js
