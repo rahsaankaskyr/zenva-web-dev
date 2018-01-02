@@ -18,3 +18,7 @@ npm
 
 			- libraries = packages or modules
 				- syntax = npm install [PACKAGE_NAME] --save
+
+			- install = latest version into node_modules folder
+			- --save = add package into package.json
+			- require node-specific keyword 
