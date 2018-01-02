@@ -10,3 +10,8 @@ test run index.js file
 
 			- console.log("hi there");
 			- terminal - node index.js
+
+npm 
+			- install javaScript libraries into an app
+
+			- 1-app npm init - initialize app to run
