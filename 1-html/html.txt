@@ -1,56 +1,9 @@
-zenva - codemurai - html course exam
+- html - 7 lessons
 
-
-
-
- <!DOCTYPE html>
- <html>
- <head>
-     <title></title>
- </head>
- 
- <h1>Club Activities</h1>
-
- <p>Welcome to our coding club.</p>
- <p>Let's learn to create websites, games, and apps.</p>
- <p>To join our club <a href="http://example.com">contact us</a></p>
- <img src="logo.png"/>
-
-<ul>
-	<li>HTML</li>
-	<li>CSS</li>
-	<li>JavaScript</li>
-</ul>
-
-<form>
-	Attendants: <input type="number"/>
-
-	Interest:
-<select>
-	<option>Websites</option>
-	<option>Games</option>
-</select>
-<input type="sumbit" value="Save" />
-</form>
-
-<table>
-	<tr>
-		<th>Day</th>
-		<th>Lesson</th>
-	</tr>
-	<tr>
-		<td>1</td>
-		<td>HTML</td>
-	</tr>
-	<tr>
-		<td>2</td>
-		<td>CSS</td>
-	</tr>
-	<tr>
-		<td>3</td>
-		<td>JS</td>
-	</tr>
-</table>
-
- </body>
- </html>
+1 - tags 	- <>open & closed statement tags</><br>
+			- heading tag - main heading - h1<br>
+				-  6 types (h1 - h6)<br>
+			- paragraph tag - p<br>
+2 - links	- 	<br>
+			- request vs response<br>
+			- a tag for links
