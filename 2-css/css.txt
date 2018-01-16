@@ -1,8 +1,26 @@
 Zenva - Codemurai - css course notes
 
-
-
-box model - 
+	- selecting by tags
+	- selecting by class and ID
+	- box model - div element - block element - occupy 100% horiz. space
+				- block elements - entire horiz. space
+					- height determined by content inside
+				- setting width & height 
+					- px(pixels)  = 100px
+					- width as percentage %
+				
+				- margins 	- space around block elements
+							
+				- padding 	
+							- space inside divs(between the edge of block element 
+								& content inside it)
+							- padding & width (add to width & height of element)
+							- controls internal width of object
+				- borders	- border: 1px solid red;
+							- width style color (3 rules)
+							- add to total width & height of element
+							
+				- top, bottom, left, right
 
 
 
