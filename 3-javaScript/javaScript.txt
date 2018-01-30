@@ -5,4 +5,6 @@ Zenva app - javaScript language course notes
 
 	- conditional statements - test a condition, do diff things based on result of 	the condition.	 
 	- if / else statements 
-	- multiple conditions - 
+	- multiple conditions - and multiple courses of actions
+		- else / if statements
+		- conditions are checked one at a time, from top to bottom, until one of them is true.
