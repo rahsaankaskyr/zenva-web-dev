@@ -8,3 +8,13 @@ Zenva app - javaScript language course notes
 	- multiple conditions - and multiple courses of actions
 		- else / if statements
 		- conditions are checked one at a time, from top to bottom, until one of them is true. After the true condition is found, none of remaining conditions are checked.  (If / else if / else)
+		var a = ?
+		if ( a >= ?){
+		  alert(" message ");
+		}
+		else if( ){
+		  alert(" message ");
+		}
+		else( ){
+	          alert(" message ");
+		}
