@@ -18,3 +18,7 @@ Zenva app - javaScript language course notes
 		else( ){
 	          alert(" message ");
 		}
+	- negating a condition (!)
+
+
+	- functions - 
