@@ -1,3 +1,6 @@
 Zenva app - javaScript language course notes
 
-	- 
+	
+
+
+	- conditional statements	 
