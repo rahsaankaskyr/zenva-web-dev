@@ -22,6 +22,7 @@ Zenva - Codemurai - css course notes
 							
 				- top, bottom, left, right
 
-
+	- typography 	
+		- fonts 
 
 
